@@ -8,7 +8,7 @@ CONFIG = read_config()
 
 st.set_page_config(
     page_title="Telegram Login",
-    page_icon="🔑",
+    page_icon="📥",
 )
 hide_st(st)
 switch_theme(st,CONFIG)
